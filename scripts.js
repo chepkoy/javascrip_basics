@@ -1,2 +1,4 @@
-alert("Hello from Treehouse");
-document.write("<h1> Welcome to treehouse</h1>");
+var message = "Hello!";
+alert(message);
+message =  "Welcome to treehouse"
+alert(message)
